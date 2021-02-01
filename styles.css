@@ -1,0 +1,15 @@
+p {
+	color: blue;
+}
+
+a:link {
+	color: green;
+}
+
+a:visited {
+	color: rebeccapurple;
+}
+
+a:hover {
+	text-decoration-color: red;
+}
